@@ -1,4 +1,5 @@
 # MSP430FR2355-temp_monitor
+Project created in Code Composer Studio
 
 Hardware: MSP430FR2355
           ssd1306 128x64 i2c oled display
